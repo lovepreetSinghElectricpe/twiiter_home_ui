@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Twenty Degree Test</string>
+    <string name="loading">Loading...</string>
+    <string name="feed_image">feed_image</string>
+</resources>
